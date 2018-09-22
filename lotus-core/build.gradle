@@ -1,0 +1,13 @@
+bootJar {
+	enabled = false
+}
+
+jar {
+	enabled = true
+	baseName = 'lotus-core'
+	version = '0.0.1-SNAPSHOT'
+}
+
+dependencies {
+
+}
